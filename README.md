@@ -18,7 +18,7 @@ Now, I am working as a software enigneer in Shanghai.
             Download  all files, run make, get stalker.img which is final Stalker os file
             
             step 1:
-            Run VirtualBox or other virtual machine, or run "qemu-system-i386 fds stalker.img"
+            Run VirtualBox or other virtual machine, or run "qemu-system-i386 fda stalker.img"
             
             step 2:
             Just load "stalker.img" by floppy, and run Stalker OS! 
