@@ -15,13 +15,13 @@ Now, I am working as a software enigneer in Shanghai.
       You can run Stalker like this:
 
             step 0:
-            Download  all files, or just "boot.img", because "boot.img" is final OS image.
+            Download  all files, run make, get stalker.img which is final Stalker os file
             
             step 1:
-            Run VirtualBox or other virtual machine.
+            Run VirtualBox or other virtual machine, or run "qemu-system-i386 fds stalker.img"
             
             step 2:
-            Just load "boot.img" by floppy, and run Stalker OS! 
+            Just load "stalker.img" by floppy, and run Stalker OS! 
   
 ================================================================================================
 
