@@ -1,4 +1,4 @@
-#生成软盘镜像文件boot.img
+#生成软盘镜像文件stalker.img
 stalker.img: boot.asm kernel.bin loader.bin isr.bin
 	nasm -o stalker.img boot.asm
 	sudo mkdir /mnt/floppyStalkerOS/
