@@ -9,9 +9,9 @@ I was a student from Hohai University in Nanjing, China.
 
 Now, I am working as a software enigneer in Shanghai.
 
-===============================================================================================
+
 ![Screenshot](./screenshot/psb.gif)
-===============================================================================================
+
       You can run Stalker like this:
 
             step 0:
@@ -23,7 +23,7 @@ Now, I am working as a software enigneer in Shanghai.
             step 2:
             Just load "stalker.img" by floppy, and run Stalker OS! 
   
-================================================================================================
+
 
 
 Thanks:
@@ -33,7 +33,7 @@ Thanks:
       <<x86汇编语言-从实模式到保护模式>> 李忠 等 著
       intel comporation
       ...
-================================================================================================
+
 
 	
 	by  Hongyuan Wang(王鸿缘)
